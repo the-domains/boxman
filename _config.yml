@@ -1,0 +1,14 @@
+layout_spectrum: 0.9111763220280409
+typography_spectrum: 0.31419840967282653
+color:
+  brandStrength: 0.16354504111222923
+  lightness: 0.779382036998868
+  saturation: 0.14322773879393935
+  rhythmicContrast: 0.4528942450415343
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Boxman
