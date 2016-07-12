@@ -1,16 +1,16 @@
-typography_spectrum: 0.31419840967282653
+typography_spectrum: 0.09806190920062363
 color:
-  brandStrength: 0.16354504111222923
-  lightness: 0.779382036998868
-  saturation: 0.14322773879393935
-  rhythmicContrast: 0.4528942450415343
+  brandStrength: 0.05666245799511671
+  lightness: 0.5325671250466257
+  saturation: 0.11305712559260428
+  rhythmicContrast: 0.4807202103547752
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
-layout_spectrum: 0.9111763220280409
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.5868574583437294
 analytics:
   google: eugeneroe@gmail.com
 name: Reject Carton Boxes
