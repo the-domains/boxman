@@ -1,25 +1,25 @@
 ---
 description: >-
-  We are established in Malaysia since 2010, professionally providing carton box
-  supply and services to various industries in the country.
-dateModified: '2016-07-13T04:17:52.688Z'
-datePublished: '2016-07-13T04:18:17.733Z'
-title: Who runs Reject Carton Box
+  Established in Malaysia since 2010, professionally providing carton box supply
+  and services to various industries in the country.
+dateModified: '2016-07-13T04:55:24.233Z'
+datePublished: '2016-07-13T04:55:25.174Z'
+title: 'Who runs Reject Carton Box, Malaysia'
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c51b7bb1-7b5a-4cb0-877b-2f75a7a50150.jpg
-starred: false
 sourcePath: _posts/2016-07-13-who-runs-reject-carton-box.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# Who runs Reject Carton Box
+# Who runs Reject Carton Box, Malaysia
 ![Founders - Alvin & Eugene](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8526fb2ccd5ef60b73e5c80d3a43285e81d64f28.jpg)
 
-We are established in Malaysia since 2010, professionally providing carton box supply and services to various industries in the country.
+Established in Malaysia since 2010, professionally providing carton box supply and services to various industries in the country.
 
 We constantly have reject (but new!) boxes due to printing or sizing errors. These reject boxes are brand new and durable in quality.
 
