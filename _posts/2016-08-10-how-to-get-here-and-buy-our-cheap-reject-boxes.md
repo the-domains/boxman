@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-10T10:35:13.709Z'
+datePublished: '2016-08-10T10:59:26.492Z'
 sourcePath: _posts/2016-08-10-how-to-get-here-and-buy-our-cheap-reject-boxes.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-10T10:35:13.048Z'
+dateModified: '2016-08-10T10:59:25.664Z'
 title: Where is your location?
 publisher: {}
 description: How to get here and buy our cheap reject boxes?
-hasPage: true
 starred: false
 url: where-is-your-location/index.html
 _type: Blurb
@@ -26,3 +26,5 @@ Or you can use Waze and type: BOXMAN then get directions here.
 Alternatively, you still can find us by manually input our GPS coordinates: 101.446, 3.082
 
 Please do not call for directions, because we are just as lost as you :)
+
+<iframe src="https://the-grid.github.io/ed-location/?latitude=3.0822479865718586&amp;longitude=101.44553303718567&amp;zoom=18" style=""></iframe>
