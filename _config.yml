@@ -14,6 +14,10 @@ layout_spectrum: 0.5868574583437294
 analytics:
   google: UA-24401791-2
 name: 'Reject Carton Boxes, Kuala Lumpur'
+navigation:
+  - name: Location
+    id: bbd1926a-a28a-4406-84d1-7dd67ca2dc19
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/90988307-d129-4430-89e1-d8cf85f5c2fd.jpg
 title: Carton Box Kuala Lumpur
