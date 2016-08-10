@@ -1,4 +1,4 @@
-typography_spectrum: 0.21651204326190054
+typography_spectrum: 0.014707695692777634
 color:
   brandStrength: 0.05666245799511671
   lightness: 0.5325671250466257
@@ -10,7 +10,7 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
-layout_spectrum: 0.5868574583437294
+layout_spectrum: 0.28496952494606376
 analytics:
   google: UA-24401791-2
 name: 'Reject Carton Boxes, Kuala Lumpur'
