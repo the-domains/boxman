@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-10T10:28:28.414Z'
+datePublished: '2016-08-10T10:35:13.709Z'
 sourcePath: _posts/2016-08-10-how-to-get-here-and-buy-our-cheap-reject-boxes.md
 author: []
 via: {}
-dateModified: '2016-08-10T10:28:27.416Z'
+dateModified: '2016-08-10T10:35:13.048Z'
 title: Where is your location?
 publisher: {}
 description: How to get here and buy our cheap reject boxes?
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: where-is-your-location/index.html
+_type: Blurb
 
 ---
 # Where is your location?
